@@ -12,3 +12,7 @@ Content list:
     05_uart_printf - transmit data using pintf function over UART
     06_uart_modular - divided project into submodules
     07_uart_rx - data receive and transmit in poling mode with received char interpreting (change state of leds)
+
+3. ADC module
+    08_ADC_continuous_conversion - one channel continuous conversion mode
+    09_ADC_single_conversion - one channel single conversion mode (polling)
