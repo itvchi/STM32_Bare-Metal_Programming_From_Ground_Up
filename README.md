@@ -6,3 +6,9 @@ Content list:
     01_gpio - PG13 and PG14 led toggle using ODR register
     02_gpio_bsrr - PG13 and PG14 led toggle using BSRR register
     03_gpio_input - led toggle speed based on PA0 button state
+
+2. USART module
+    04_uart_tx - data transmit in polling mode
+    05_uart_printf - transmit data using pintf function over UART
+    06_uart_modular - divided project into submodules
+    07_uart_rx - data receive and transmit in poling mode with received char interpreting (change state of leds)
